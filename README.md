@@ -2,14 +2,12 @@
 
 <p align="center">
   <br>
-    <img width="300" src="photogrammetry.svg" alt="Awesome Image Analysis">
+    <img width="300" src="photogrammetry.jpg" alt="Awesome Image Analysis">
  <br>
  <br>
 </p>
 
-> Tools and resources for all forms of image analysis with particular focus on tools for GIS photogrammetry, remote sensing, topographic imagery analysis applicable to image/video data for greenspaces and sustainable land management.
-
-Photogrammetric image analysis aims to increase our understanding of our Earth and land we sustainably manage through the use of various computational techniques and approaches to obtain valuable information from multimodal forms of mapping data, images, audio.
+> Tools and resources for all forms of image analysis ***with particular focus on tools for GIS photogrammetry, remote sensing, topographic imagery analysis*** especially for uses applicable to image/video data for greenspaces and sustainable land management. We are fascinated by ALL forms of image analysis, but this particular repository will be slightly more focused on photogrammetric image analysis and connections to GIS or mapping software in order to further our organizations specifig goal of increasing our understanding of our Earth and land we sustainably manage through the use of various computational techniques and approaches to obtain valuable information from multimodal forms of mapping data, images, audio.
 
 ## Contents
 - [General image analysis software](#general-image-analysis-software)
