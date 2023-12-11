@@ -7,7 +7,7 @@
  <br>
 </p>
 
-> Tools and resources for all forms of image analysis with particular focus on tools for GIS photogrammetry, remote sensing, topographic imagery analysis applicable to image/video data for greenspaces and sustainable land management.
+> Tools and resources for all forms of image analysis ***with particular focus on tools for GIS photogrammetry, remote sensing, topographic imagery analysis*** especially for uses applicable to image/video data for greenspaces and sustainable land management.
 
 Photogrammetric image analysis aims to increase our understanding of our Earth and land we sustainably manage through the use of various computational techniques and approaches to obtain valuable information from multimodal forms of mapping data, images, audio.
 
