@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img width="300" src="photogrammetry.jpg" alt="Awesome Image Analysis">
+    <img width="300" src="photog-GIS.jpg" alt="Awesome Image Analysis">
  <br>
  <br>
 </p>
