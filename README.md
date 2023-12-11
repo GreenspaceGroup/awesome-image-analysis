@@ -1,4 +1,4 @@
-# Awesome Biological Image Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Image Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <br>
@@ -7,9 +7,9 @@
  <br>
 </p>
 
-> Tools and resources for biological image analysis.
+> Tools and resources for all forms of image analysis with particular focus on tools for GIS photogrammetry, remote sensing, topographic imagery analysis applicable to image/video data for greenspaces and sustainable land management.
 
-Biological image analysis aims to increase our understanding of biology through the use of various computational techniques and approaches to obtain valuable information from images.
+Photogrametric image analysis aims to increase our understanding of our Earth and land we sustainably manage through the use of various computational techniques and approaches to obtain valuable information from multimodal forms of mapping data, images, audio.
 
 ## Contents
 - [General image analysis software](#general-image-analysis-software)
